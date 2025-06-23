@@ -20,12 +20,12 @@ You can use this site to:
 - GitHub Pages
 
 ## 📂 Project Structure
-
+'''
 ├── index.html # Main webpage content
 ├── assets/ # Images, CSS, JS files
 ├── README.md # This file, shows on GitHub and also GitHub Pages
 └── ...
-
+'''
 
 ## 📬 Contact
 
